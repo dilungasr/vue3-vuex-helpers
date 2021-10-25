@@ -1,0 +1,26 @@
+{
+  "name": "vue3-vuex-helpers",
+  "version": "1.0.67",
+  "description": "Tiny package which provides extremely simplified Vuex 4 helpers to use with Vue 3 for accelerated productivity.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dilungasr/vue3-vuex-helpers.git"
+  },
+  "keywords": [
+    "vuex",
+    "vuex4",
+    "vuex-helpers",
+    "vue3",
+    "vue",
+    "3",
+    "vue3-vuex-helpers",
+    "vuex-composition-helpers"
+  ],
+  "author": "dilungasr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dilungasr/vue3-vuex-helpers/issues"
+  },
+  "homepage": "https://github.com/dilungasr/vue3-vuex-helpers#readme"
+}
