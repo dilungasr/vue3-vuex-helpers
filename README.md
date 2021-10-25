@@ -1,2 +1,2 @@
 # vue3-vuex-helpers
-Simplified Vue 3 and Vuex 4 helpers for accelerated productivity
+Tiny package which provides extremely simplified Vuex 4 helpers to use with Vue 3 for accelerated productivity.
